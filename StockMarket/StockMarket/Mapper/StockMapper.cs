@@ -1,5 +1,6 @@
 ﻿using StockMarket.DTO.Stock;
 using StockMarket.Models;
+using System.Runtime.CompilerServices;
 
 namespace StockMarket.Mapper
 {
@@ -16,6 +17,19 @@ namespace StockMarket.Mapper
                 LastDiv = stockModel.LastDiv,
                 Industry = stockModel.Industry,
                 MarketCap = stockModel.MarketCap,
+            };
+        }
+
+        public static Stock ToStockFromCreateDTO(this CreateStockRequestDto stockDto)
+        {
+            return new Stock
+            {
+                Symbol = stockDto.Symbol,
+                CompanyName = stockDto.CompanyName,
+                Purchase = stockDto.Purchase,
+                LastDiv = stockDto.LastDiv,
+                Industry = stockDto.Industry,
+                MarketCap = stockDto.MarketCap,
             };
         }
     }

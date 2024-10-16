@@ -11,6 +11,22 @@
   },
   {
     "ContainingType": "StockMarket.Controllers.StockController",
+    "Method": "Create",
+    "RelativePath": "api/stock",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stockDto",
+        "Type": "StockMarket.DTO.Stock.CreateStockRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StockMarket.Controllers.StockController",
     "Method": "GetById",
     "RelativePath": "api/stock/{id}",
     "HttpMethod": "GET",
