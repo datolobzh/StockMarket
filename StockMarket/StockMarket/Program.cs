@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using StockMarket.Data;
 using StockMarket.Interfaces;
+using StockMarket.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,7 +18,7 @@ builder.Services.AddDbContext<ApplicationDBContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
 });
 
-builder.Services.AddScoped<IStockRepository, IStockRepository>();
+builder.Services.AddScoped<IStockRepository, StockRepository>();
 
 var app = builder.Build();
 
