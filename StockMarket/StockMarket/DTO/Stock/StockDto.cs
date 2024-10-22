@@ -1,4 +1,6 @@
-﻿namespace StockMarket.DTO.Stock
+﻿using StockMarket.DTO.Comment;
+
+namespace StockMarket.DTO.Stock
 {
     public class StockDto
     {
@@ -9,5 +11,6 @@
         public decimal LastDiv { get; set; }
         public string Industry { get; set; } = string.Empty;
         public long MarketCap { get; set; }
+        public List<CommentDto> Comments { get; set; }
     }
 }

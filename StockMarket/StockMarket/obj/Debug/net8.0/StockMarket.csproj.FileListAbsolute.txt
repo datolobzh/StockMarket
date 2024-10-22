@@ -8,6 +8,8 @@ C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Azure.Core.dll
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Azure.Identity.dll
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Humanizer.dll
+C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -38,6 +40,8 @@ C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
