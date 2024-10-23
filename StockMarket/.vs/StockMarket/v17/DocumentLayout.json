@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\dto\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\dto\\stock\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\repository\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\mapper\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\mapper\\commentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\interfaces\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\mapper\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\mapper\\stockmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\dto\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\dto\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\interfaces\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\dto\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\dto\\comment\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,43 +54,34 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Program.cs",
-              "RelativeDocumentMoniker": "StockMarket\\Program.cs",
-              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Program.cs",
-              "RelativeToolTip": "StockMarket\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABkAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\DTO\\Comment\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "StockMarket\\DTO\\Comment\\CreateCommentDto.cs",
+              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\DTO\\Comment\\CreateCommentDto.cs",
+              "RelativeToolTip": "StockMarket\\DTO\\Comment\\CreateCommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:37:49.894Z",
+              "WhenOpened": "2024-10-23T19:40:40.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StockRepository.cs",
-              "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Repository\\StockRepository.cs",
-              "RelativeDocumentMoniker": "StockMarket\\Repository\\StockRepository.cs",
-              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Repository\\StockRepository.cs",
-              "RelativeToolTip": "StockMarket\\Repository\\StockRepository.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAgwCwAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:30:52.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CommentController.cs",
               "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Controllers\\CommentController.cs",
               "RelativeDocumentMoniker": "StockMarket\\Controllers\\CommentController.cs",
               "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Controllers\\CommentController.cs",
               "RelativeToolTip": "StockMarket\\Controllers\\CommentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDQAAABsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T19:30:12.771Z",
               "EditorCaption": ""
@@ -82,28 +89,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "StockMapper.cs",
-              "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Mapper\\StockMapper.cs",
-              "RelativeDocumentMoniker": "StockMarket\\Mapper\\StockMapper.cs",
-              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Mapper\\StockMapper.cs",
-              "RelativeToolTip": "StockMarket\\Mapper\\StockMapper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABVAAAAAAAAAA==",
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Interfaces\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "StockMarket\\Interfaces\\IStockRepository.cs",
+              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "StockMarket\\Interfaces\\IStockRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:28:26.633Z",
+              "WhenOpened": "2024-10-23T19:43:47.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StockDto.cs",
-              "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\DTO\\Stock\\StockDto.cs",
-              "RelativeDocumentMoniker": "StockMarket\\DTO\\Stock\\StockDto.cs",
-              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\DTO\\Stock\\StockDto.cs",
-              "RelativeToolTip": "StockMarket\\DTO\\Stock\\StockDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA4wA0AAAAgAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "StockMarket\\Repository\\StockRepository.cs",
+              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "StockMarket\\Repository\\StockRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwDEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T19:27:17.976Z",
+              "WhenOpened": "2024-10-22T19:30:52.28Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentMapper.cs",
+              "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Mapper\\CommentMapper.cs",
+              "RelativeDocumentMoniker": "StockMarket\\Mapper\\CommentMapper.cs",
+              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Mapper\\CommentMapper.cs",
+              "RelativeToolTip": "StockMarket\\Mapper\\CommentMapper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:48:48.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Repository\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "StockMarket\\Repository\\CommentRepository.cs",
+              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Repository\\CommentRepository.cs",
+              "RelativeToolTip": "StockMarket\\Repository\\CommentRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:52:22.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Interfaces\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "StockMarket\\Interfaces\\ICommentRepository.cs",
+              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Interfaces\\ICommentRepository.cs",
+              "RelativeToolTip": "StockMarket\\Interfaces\\ICommentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:52:37.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\DTO\\Comment\\CommentDto.cs",
+              "RelativeDocumentMoniker": "StockMarket\\DTO\\Comment\\CommentDto.cs",
+              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\DTO\\Comment\\CommentDto.cs",
+              "RelativeToolTip": "StockMarket\\DTO\\Comment\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:41:02.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Program.cs",
+              "RelativeDocumentMoniker": "StockMarket\\Program.cs",
+              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Program.cs",
+              "RelativeToolTip": "StockMarket\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T19:37:49.894Z"
             }
           ]
         },

@@ -26,6 +26,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "StockMarket.Controllers.CommentController",
+    "Method": "Create",
+    "RelativePath": "api/comment/{stockId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stockId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "commentDto",
+        "Type": "StockMarket.DTO.Comment.CreateCommentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "StockMarket.Controllers.StockController",
     "Method": "GetAll",
     "RelativePath": "api/stock",
