@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using StockMarket.Data;
 using StockMarket.DTO.Stock;
+using StockMarket.Helpers;
 using StockMarket.Interfaces;
 using StockMarket.Mapper;
 
@@ -20,13 +21,13 @@ namespace StockMarket.Controllers
         }
 
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> GetAll([FromQuery] QueryObject query)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
-            var stocks = await _stockRepo.GetAllAsync();
+            var stocks = await _stockRepo.GetAllAsync(query);
 
             var stockDto = stocks.Select(s => s.ToStockDto());
 
