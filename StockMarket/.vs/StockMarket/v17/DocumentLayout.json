@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\helpers\\queryobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|c:\\\u10D3stuff\\source control\\stockmarket\\stockmarket\\stockmarket\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17C4B50F-4FCC-401F-9A4D-85D811F62A18}|StockMarket\\StockMarket.csproj|solutionrelative:stockmarket\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,25 +42,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StockRepository.cs",
               "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Repository\\StockRepository.cs",
               "RelativeDocumentMoniker": "StockMarket\\Repository\\StockRepository.cs",
-              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Repository\\StockRepository.cs*",
-              "RelativeToolTip": "StockMarket\\Repository\\StockRepository.cs*",
-              "ViewState": "AgIAACEAAAAAAAAAAAAgwDEAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "StockMarket\\Repository\\StockRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwDwAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T19:25:45.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "IStockRepository.cs",
               "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Interfaces\\IStockRepository.cs",
               "RelativeDocumentMoniker": "StockMarket\\Interfaces\\IStockRepository.cs",
-              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Interfaces\\IStockRepository.cs*",
-              "RelativeToolTip": "StockMarket\\Interfaces\\IStockRepository.cs*",
+              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Interfaces\\IStockRepository.cs",
+              "RelativeToolTip": "StockMarket\\Interfaces\\IStockRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T19:25:09.373Z",
@@ -68,26 +68,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "QueryObject.cs",
               "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Helpers\\QueryObject.cs",
               "RelativeDocumentMoniker": "StockMarket\\Helpers\\QueryObject.cs",
-              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Helpers\\QueryObject.cs*",
-              "RelativeToolTip": "StockMarket\\Helpers\\QueryObject.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Helpers\\QueryObject.cs",
+              "RelativeToolTip": "StockMarket\\Helpers\\QueryObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T19:17:45.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "StockController.cs",
               "DocumentMoniker": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Controllers\\StockController.cs",
               "RelativeDocumentMoniker": "StockMarket\\Controllers\\StockController.cs",
-              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Controllers\\StockController.cs*",
-              "RelativeToolTip": "StockMarket\\Controllers\\StockController.cs*",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwB0AAAA9AAAAAAAAAA==",
+              "ToolTip": "C:\\\u10D3Stuff\\Source Control\\StockMarket\\StockMarket\\StockMarket\\Controllers\\StockController.cs",
+              "RelativeToolTip": "StockMarket\\Controllers\\StockController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwB0AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-27T19:14:56.288Z",
               "EditorCaption": ""
