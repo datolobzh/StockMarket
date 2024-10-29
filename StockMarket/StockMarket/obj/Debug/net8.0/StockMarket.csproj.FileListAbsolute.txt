@@ -145,3 +145,9 @@ C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\obj\Debug\net8.0\
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\obj\Debug\net8.0\StockMarket.pdb
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\obj\Debug\net8.0\StockMarket.genruntimeconfig.cache
 C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\obj\Debug\net8.0\ref\StockMarket.dll
+C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\დStuff\Source Control\StockMarket\StockMarket\StockMarket\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
