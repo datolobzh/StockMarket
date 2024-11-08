@@ -6,6 +6,7 @@ using StockMarket.Data;
 using StockMarket.Interfaces;
 using StockMarket.Models;
 using StockMarket.Repository;
+using StockMarket.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -61,6 +62,7 @@ builder.Services.AddAuthentication(options =>
 
 builder.Services.AddScoped<IStockRepository, StockRepository>();
 builder.Services.AddScoped<ICommentRepository, CommentRepository>();
+builder.Services.AddScoped<ITokenService, TokenService>();
 
 var app = builder.Build();
 
