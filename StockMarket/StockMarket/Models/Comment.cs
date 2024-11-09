@@ -1,5 +1,8 @@
-﻿namespace StockMarket.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace StockMarket.Models
 {
+    [Table("Comments")]
     public class Comment
     {
         public int Id { get; set; }

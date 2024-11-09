@@ -12,8 +12,8 @@ using StockMarket.Data;
 namespace StockMarket.Migrations
 {
     [DbContext(typeof(ApplicationDBContext))]
-    [Migration("20241103182435_seeduser")]
-    partial class seeduser
+    [Migration("20241109190022_Portfolio")]
+    partial class Portfolio
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -54,13 +54,13 @@ namespace StockMarket.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "6fa7d907-2d24-4703-9373-65e386817e3c",
+                            Id = "61e9988e-4dbe-4794-96b9-7540d33a48fe",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         },
                         new
                         {
-                            Id = "be9940e4-3b90-4fc6-86b3-450ea739c68b",
+                            Id = "213e166c-cb46-4b44-af95-db3051947f41",
                             Name = "User",
                             NormalizedName = "USER"
                         });
@@ -266,6 +266,21 @@ namespace StockMarket.Migrations
                     b.ToTable("Comments");
                 });
 
+            modelBuilder.Entity("StockMarket.Models.Portfolio", b =>
+                {
+                    b.Property<string>("AppUserId")
+                        .HasColumnType("nvarchar(450)");
+
+                    b.Property<int>("StockId")
+                        .HasColumnType("int");
+
+                    b.HasKey("AppUserId", "StockId");
+
+                    b.HasIndex("StockId");
+
+                    b.ToTable("Portfolios");
+                });
+
             modelBuilder.Entity("StockMarket.Models.Stock", b =>
                 {
                     b.Property<int>("Id")
@@ -360,9 +375,35 @@ namespace StockMarket.Migrations
                     b.Navigation("Stock");
                 });
 
+            modelBuilder.Entity("StockMarket.Models.Portfolio", b =>
+                {
+                    b.HasOne("StockMarket.Models.AppUser", "AppUser")
+                        .WithMany("Potfolios")
+                        .HasForeignKey("AppUserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("StockMarket.Models.Stock", "Stock")
+                        .WithMany("Potfolios")
+                        .HasForeignKey("StockId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("AppUser");
+
+                    b.Navigation("Stock");
+                });
+
+            modelBuilder.Entity("StockMarket.Models.AppUser", b =>
+                {
+                    b.Navigation("Potfolios");
+                });
+
             modelBuilder.Entity("StockMarket.Models.Stock", b =>
                 {
                     b.Navigation("Comments");
+
+                    b.Navigation("Potfolios");
                 });
 #pragma warning restore 612, 618
         }
